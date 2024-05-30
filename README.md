@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit
-- 👀 Interested in every type of technology
-- 🌱 Currently learning electronics and Machine Learning
-- 💞️ Looking to collaborate on robotics projects
+- 👀 Interested in technology
+- 🌱 Currently learning intelligent automation and AI
+- 💞️ Looking to collaborate on projects
 - 📫 Reach me at my mail: ank.rawat28@gmail.com
 
 <!---
